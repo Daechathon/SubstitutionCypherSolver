@@ -1,0 +1,2 @@
+# SubstitutionCypherSolver
+Solves substitution cyphers
